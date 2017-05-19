@@ -1,0 +1,16 @@
+.idea
+target
+data
+*.iml
+node_modules
+.mvn
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+/.apt_generated/
+/.settings/*
+/.classpath
+/.factorypath
+/.project
